@@ -2,4 +2,4 @@
 
 该Organization目前建设中，请移步[https://tiger-code.com](https://tiger-code.com)了解详情。
 
-注意：目前这个不是官方Organization，资料、教程均来自虎码官网和QQ群中。
+注意：目前这个不是官方Organization，资料、教程均来自虎码官网和QQ群中。(希望虎码官方能加入管理，把能开源的相关项目都放进来）
